@@ -1,5 +1,5 @@
+import { MovieDataSet } from "../data/MovieDataSet";
 import Movie from "./Movie";
-import { MovieDataSet } from "./data/MovieDataSet";
 import "./movies.css";
 
 const MoviesList = () => {

@@ -7,7 +7,7 @@
 
 .movie-card {
   display: flex;
-  width: 600px;
+  width: 700px;
   border: 1px solid black;
   /* gap: 10px; */
   box-shadow: 1px 3px 5px rgb(85, 32, 32);
@@ -15,6 +15,7 @@
   border-radius: 5px;
   margin: 10px;
 }
+
 .movie-details {
   width: 70%;
   color: white;
@@ -23,6 +24,7 @@
   flex-direction: column;
   justify-content: space-between;
 }
+
 .movie-img {
   width: 30%;
   display: flex;
@@ -43,6 +45,7 @@
   justify-content: space-between;
   max-width: 350px;
 }
+
 .movie-link button {
   cursor: pointer;
   padding: 10px 20px;
@@ -52,6 +55,7 @@
   border-radius: 10px;
   font-weight: bold;
 }
+
 .movie-link {
   width: fit-content;
 }

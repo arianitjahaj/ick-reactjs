@@ -11,6 +11,7 @@ const MovieDataSet = [
     description:
       "Over the course of several years, two convicts form a friendship, seeking consolation and, eventually, redemption through basic compassion.",
     link: "https://www.imdb.com/video/vi3877612057/?playlistId=tt0111161&ref_=tt_ov_vi",
+    watched: false,
   },
   {
     id: 1,
@@ -24,6 +25,8 @@ const MovieDataSet = [
     description:
       "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
     link: "https://www.imdb.com/video/vi1348706585/?playlistId=tt0068646&ref_=tt_pr_ov_vi",
+    watched: false,
+
   },
   {
     id: 2,
@@ -37,6 +40,8 @@ const MovieDataSet = [
     description:
       "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
     link: "https://www.imdb.com/video/vi324468761/?playlistId=tt0468569&ref_=tt_ov_vi",
+    watched: false,
+
   },
   {
     id: 3,
@@ -50,6 +55,8 @@ const MovieDataSet = [
     description:
       "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
     link: "https://www.imdb.com/video/vi696162841/?playlistId=tt0071562&ref_=tt_ov_vi",
+    watched: false,
+
   },
   {
     id: 4,
@@ -63,6 +70,8 @@ const MovieDataSet = [
     description:
       "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
     link: "https://www.imdb.com/video/vi2924462873/?playlistId=tt0050083&ref_=tt_ov_vi",
+    watched: false,
+
   },
   {
     id: 5,
@@ -76,6 +85,8 @@ const MovieDataSet = [
     description:
       "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
     link: "https://www.imdb.com/video/vi3332425241/?playlistId=tt15239678&ref_=tt_ov_vi",
+    watched: false,
+
   },
   {
     id: 6,
@@ -89,6 +100,8 @@ const MovieDataSet = [
     description:
       "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
     link: "https://www.imdb.com/video/vi2959588889/?playlistId=tt1375666&ref_=tt_pr_ov_vi",
+    watched: false,
+
   },
   {
     id: 7,
@@ -102,6 +115,8 @@ const MovieDataSet = [
     description:
       "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
     link: "https://www.imdb.com/video/vi1586278169/?playlistId=tt0816692&ref_=tt_ov_vi",
+    watched: false,
+
   },
   {
     id: 8,
@@ -115,6 +130,8 @@ const MovieDataSet = [
     description:
       "Miles Morales catapults across the multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero.",
     link: "https://www.imdb.com/video/vi207143961/?playlistId=tt9362722&ref_=tt_pr_ov_vi",
+    watched: false,
+
   },
   {
     id: 9,
@@ -128,6 +145,8 @@ const MovieDataSet = [
     description:
       "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
     link: "https://www.imdb.com/video/vi1015463705/?playlistId=tt6751668&ref_=tt_pr_ov_vi",
+    watched: false,
+
   },
 ];
 

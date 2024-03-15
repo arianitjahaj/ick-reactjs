@@ -33,6 +33,7 @@ const Movie = ({
         <a className="movie-link" href={link} target="_blank" rel="noreferrer">
           <button>Watch Trailer</button>
         </a>
+
       </div>
     </div>
   );
